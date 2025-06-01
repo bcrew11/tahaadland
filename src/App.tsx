@@ -19,7 +19,7 @@ function App() {
 
       <section className="hero" id="home">
         <div className="hero-content">
-          <h1>HE'S <span>BACK</span></h1>
+          <h1>HE'S <span>BACK.</span></h1>
           <h2>TAHAAD PETTIFORD</h2>
           <p>Celebrate the return of Auburn's star with our bestselling shirt!</p>
           <a href="#shop" className="cta-button">SHOP NOW</a>
