@@ -12,7 +12,6 @@ function App() {
           <ul>
             <li><a href="#home">Home</a></li>
             <li><a href="#shop">Shop</a></li>
-            <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
         </nav>
@@ -22,7 +21,7 @@ function App() {
         <div className="hero-content">
           <h1>HE'S <span>BACK</span></h1>
           <h2>TAHAAD PETTIFORD</h2>
-          <p>Celebrate the return of Auburn's star with our bestselling shirt</p>
+          <p>Celebrate the return of Auburn's star with our bestselling shirt!</p>
           <a href="#shop" className="cta-button">SHOP NOW</a>
         </div>
       </section>
@@ -68,7 +67,7 @@ function App() {
           <div className="product-info">
             <h3>Tahaad Pettiford Vintage Basketball Graphic T-shirt</h3>
             <p className="product-description">
-              Unisex sports tee featuring Tahaad Pettiford in action. Perfect for Auburn fans and sports lovers.
+              Unisex sports tee featuring Tahaad Pettiford back in action. Perfect for Auburn fans and sports lovers.
             </p>
             <p className="price">$29.99</p>
             <div className="size-selector">
@@ -78,7 +77,14 @@ function App() {
               <button>XL</button>
               <button>XXL</button>
             </div>
-            <button className="add-to-cart">ADD TO CART</button>
+           <a 
+  href="https://inkpactaesthetics.etsy.com/listing/1897759385/tahaad-pettiford-vintage-basketball" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="add-to-cart"
+>
+  ADD TO CART
+</a>
           </div>
         </div>
       </section>
